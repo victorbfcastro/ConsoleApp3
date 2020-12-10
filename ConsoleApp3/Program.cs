@@ -16,7 +16,7 @@ namespace Projeto
             double n2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             double resultado = calc.Soma(n1, n2);
-            Console.WriteLine("resultado 1 =" + resultado);
+            Console.WriteLine("resultado 1 = " + resultado);
 
 
             double resultado2 = calc.Soma(numeros);
